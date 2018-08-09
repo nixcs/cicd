@@ -347,9 +347,9 @@ objects:
 
             cat <<EOF > /tmp/data.json
             {
-              "clone_addr": "https://github.com/OpenShiftDemos/openshift-tasks.git",
+              "clone_addr": "https://github.com/nixcs/testapps.git",
               "uid": 1,
-              "repo_name": "openshift-tasks"
+              "repo_name": "testapps"
             }
             EOF
 
